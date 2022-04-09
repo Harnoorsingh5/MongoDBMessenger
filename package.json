@@ -33,7 +33,7 @@
     "express": "^4.16.2",
     "immutable": "^4.0.0-rc.12",
     "loadash": "^1.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "mongodb": "^3.5.4",
     "morgan": "^1.9.0",
     "uWebSockets.js": "github:uNetworking/uWebSockets.js#v17.1.0",
